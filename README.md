@@ -1,10 +1,10 @@
 # Belajar SQLite
 
 1. npm install --save sqlite3
-2. isi field data dalam table : node create ihsandroid 081210040505 me@ihsandroid (sesuai kolom)
+2. isi field data dalam table : node create ihsandroid 081210040505 me@ihsandroid.com (sesuai kolom)
 3. Cek semua record : node read
-4. Untuk update data : node update 'id-nya'(data yang diganti)
-5. untuk delete : node delete ....
+4. Untuk update data : node update (data yang diganti)
+5. untuk delete : node delete (pilih id yg mau dihapus)
 6. Untuk kekurangan bisa kasih saya saran supaya lebih baik lagi terima kasih.
 
 ## Contoh di DBlite Browser
